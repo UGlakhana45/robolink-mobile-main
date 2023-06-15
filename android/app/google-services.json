@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199063737613",
+    "project_id": "robolink-a9826",
+    "storage_bucket": "robolink-a9826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199063737613:android:2a2cf9e8c3d5e525df8c44",
+        "android_client_info": {
+          "package_name": "com.w3cserp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199063737613-frvm5cqg1g1qh87tfri8i4kclkklvlif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHtq1uPcMxGLQ5yhaKBJogjzXVuCGXMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199063737613-frvm5cqg1g1qh87tfri8i4kclkklvlif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
